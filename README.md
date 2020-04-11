@@ -1,3 +1,3 @@
 # flac-music
 
-#python2 flac.py
+# python2 flac.py
